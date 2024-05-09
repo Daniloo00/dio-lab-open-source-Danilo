@@ -12,7 +12,8 @@
 
 # Objetivo 🎯
 
-### Busco minha oportunidade na area da programação com foco em desenvolvimento, para aprimorar e mostrar os meus conhecimentos 
+### Busco minha oportunidade na area da programação com foco em 
+desenvolvimento, para aprimorar e mostrar os meus conhecimentos 
 
 # Linguagens de Programação 💻
 
